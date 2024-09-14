@@ -54,6 +54,5 @@ Object Oriented Programming (OOP)
 
 Asynchronous JavaScript
 
-![image](https://github.com/user-attachments/assets/ce575216-1039-4b8d-afb7-77f9728fea08)
 
 
