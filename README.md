@@ -18,3 +18,42 @@ JavaScript Fundamentals – Part 2
 
 ![image](https://github.com/user-attachments/assets/4837902a-2922-410a-93b8-4f8c57aa64e6)
 
+Developer Skills & Editor Setup
+
+![image](https://github.com/user-attachments/assets/02a03778-4b25-4a81-990b-7f185be4d9d7)
+
+JavaScript in the Browser: DOM and Events
+
+![image](https://github.com/user-attachments/assets/aeb40048-b0ca-4149-9435-c75444c64228)
+
+Data Structures, Modern Operators and Strings
+
+![image](https://github.com/user-attachments/assets/ede24e7f-e289-4b60-94c4-1c8b7219f75d)
+
+![image](https://github.com/user-attachments/assets/95a05b4e-20a6-4d48-b6b9-8e41de4c78e0)
+
+![image](https://github.com/user-attachments/assets/4488af7b-9575-4d1a-a543-20cfdd265075)
+
+![image](https://github.com/user-attachments/assets/5221457b-d421-48be-a3ad-7b5ac278b3a0)
+
+A Closer Look at Functions
+
+![image](https://github.com/user-attachments/assets/90f47d39-45c5-4a63-83f2-db00121c8fa6)
+
+![image](https://github.com/user-attachments/assets/f2b887cf-cbae-4f7b-bce3-9efb399b761c)
+
+Working With Arrays
+
+![image](https://github.com/user-attachments/assets/57be49fe-726d-4c34-b037-11b5420aabd8)
+
+![image](https://github.com/user-attachments/assets/9c44ae2b-e742-401a-9a4f-35faa296b9e3)
+
+Object Oriented Programming (OOP)
+
+![image](https://github.com/user-attachments/assets/e68f16d4-caee-4961-9842-9b4eb23a0bf3)
+
+Asynchronous JavaScript
+
+![image](https://github.com/user-attachments/assets/ce575216-1039-4b8d-afb7-77f9728fea08)
+
+
